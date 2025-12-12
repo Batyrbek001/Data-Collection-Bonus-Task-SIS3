@@ -2,7 +2,7 @@ Web Scraping to Kafka Mini-Pipeline
 Bonus Task 3 - Data Collection and Preparation
 
 **Student ID:** 22B22B1510  
-**Author:** Batyr  
+**Author:** Batyrbek Raiymbek  
 **Target URL:** [Wikipedia - List of highest-grossing films](https://en.wikipedia.org/wiki/List_of_highest-grossing_films)
 
 
@@ -48,4 +48,5 @@ Each record is pushed to the topic as a JSON object:
 
 Output Files
 script.py: The main logic for scraping, cleaning, and producing messages.
+
 cleaned_data.csv: Local backup of the transformed dataset.
